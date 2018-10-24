@@ -1,11 +1,11 @@
 #include "piece.h"
 
-Piece::Piece(char type, int location, char direction)
+Piece::Piece()
 {
 
 }
 
-Piece::Piece()
+void Piece::start(char type, int location, char direction)
 {
 
 }
