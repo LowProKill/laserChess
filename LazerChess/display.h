@@ -39,12 +39,14 @@ private:
 	sf::Texture whiteText[5];
 	sf::Texture blackText[5];
 
-	sf::Texture lazer[3];
+	sf::Texture laserText[3];
 	sf::Texture hit[4];
 	
 
 
 	sf::RenderWindow window;
+	sf::Sprite mySprite;
+	sf::Sprite board;
 
 
 

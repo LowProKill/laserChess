@@ -12,20 +12,20 @@ Piece::Piece()
 
 char Piece::hit(char fromDirection)
 {
-
+	return fromDirection;
 }
 
 char Piece::getType()
 {
-
+	return type;
 }
 
 int Piece::getLocation()
 {
-
+	return location;
 }
 
 char Piece::getDirection()
 {
-
+	return direction;
 }

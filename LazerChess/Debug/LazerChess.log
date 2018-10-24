@@ -1,2 +1,7 @@
-﻿  main.cpp
-  LazerChess.vcxproj -> C:\Users\Lowprokill\Projects\LazerChess\Debug\LazerChess.exe
+﻿  display.cpp
+c:\users\lowprokill\projects\laserchess\lazerchess\display.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lowprokill\projects\laserchess\lazerchess\display.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\laserchess\lazerchess\display.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lowprokill\projects\laserchess\lazerchess\display.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lowprokill\projects\laserchess\lazerchess\display.cpp(124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  LazerChess.vcxproj -> C:\Users\Lowprokill\Projects\laserChess\Debug\LazerChess.exe
