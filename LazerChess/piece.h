@@ -7,13 +7,10 @@ class Piece
 {
 public:
 	// initialiation of Piece class
-	// sets member type location and direction
-	Piece(char type, int location, char direction);
-	
-	// unsure if this will remain
-	// default constructer
-	// also an overload of the function above
 	Piece();
+
+	// sets up member variables
+	void start(char type, int location, char direction);
 
 	// takes a laser blast comming from fromDirection
 	// returns the new direction of the laser or 'd' for a dead piece
