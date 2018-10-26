@@ -16,8 +16,8 @@ Instructions for git hub
   
   "//" = comments
   pull = git pull origin <branch name> // explecitly pull from the master branch
-  add = git add* // adds entire working directory to staging
-  commit = git commit // a new dialogue thing will apear using vi. add a message the press ^o, enter, ^x
+  add = git add * // adds entire working directory to staging
+  commit = git commit // a new dialogue thing will apear using vi. add a message the press esc, :wq enter
   push = git push origin <branch name> // send your commit to git hub
   checkout = git checkout // change to different branch, add -b to create a branch
   
